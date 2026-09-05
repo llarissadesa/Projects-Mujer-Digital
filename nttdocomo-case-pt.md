@@ -11,7 +11,7 @@ A NTT DOCOMO é a maior operadora de telecomunicações móveis do Japão, perte
 
 ## O que aconteceu
 Houve um ataque de phishing - criminosos se passam por outra pessoa ou empresa confiável para enganar e roubar dados sensíveis -, onde os atacantes não invadiram os servidores centrais da empresa diretamente, em vez disso, eles comprometeram as credenciais de acesso de um funcionário de uma empresa parceira de TI que possuía acesso privilegiado aos sistemas de manutenção da operadora. Sem autenticação multifator (MFA) rigorosa no ambiente parceiro, os atacantes usaram esses acessos legítimos para extrair dados do banco de dados de clientes sem levantar alertas imediatos.
-[imagem]
+![Image Alt](https://github.com/llarissadesa/Projects-Mujer-Digital/blob/main/phishingmodel.png?raw=true)
 
 
 ## Impacto
