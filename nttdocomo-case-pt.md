@@ -68,7 +68,7 @@ Houve um ataque de phishing - criminosos se passam por outra pessoa ou empresa c
 **- Lições aprendidas:** Revisar contratos de segurança com parceiros e realizar novas auditorias de compliance.
 
 
-## Ferramentas usadas:
+## Ferramentas usadas
 **- Gerenciamento de Informações e Eventos de Segurança:** Coleta e análise de logs para correlação dos eventos do ataque.
 
 
